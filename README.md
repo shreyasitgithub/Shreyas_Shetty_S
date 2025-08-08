@@ -1,5 +1,5 @@
 #Screening Test - Tandemloop
-Name: Shreyas_Shetty_S
+Name: Shreyas Shetty S
 Position applied: Full Stack Developer
 Programming langauage used: Python
 
